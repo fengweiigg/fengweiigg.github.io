@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dr. Wei FENG</title>
+    <link>https://fengweiigg.github.io/publication/</link>
+    <description>Recent content in Publications on Dr. Wei FENG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wei Feng</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fengweiigg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Groundwater Storage Changes in China from Satellite Gravity: An Overview</title>
+      <link>https://fengweiigg.github.io/publication/gws_china_rs/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengweiigg.github.io/publication/gws_china_rs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass-induced sea level variations in the Red Sea from GRACE, steric-corrected altimetry, in-situ bottom pressure records, and hydrographic observations</title>
+      <link>https://fengweiigg.github.io/publication/mass_redsea_jog/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengweiigg.github.io/publication/mass_redsea_jog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of groundwater depletion in North China using the Gravity Recovery and Climate Experiment (GRACE) data and ground-based measurements</title>
+      <link>https://fengweiigg.github.io/publication/gws_ncp_wrr/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengweiigg.github.io/publication/gws_ncp_wrr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSFC on Dr. Wei FENG</title>
+    <link>https://fengweiigg.github.io/tags/nsfc/</link>
+    <description>Recent content in NSFC on Dr. Wei FENG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wei Feng</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fengweiigg.github.io/tags/nsfc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NSFC  (grant no. 41431070)</title>
+      <link>https://fengweiigg.github.io/project/nsfc_tibet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengweiigg.github.io/project/nsfc_tibet/</guid>
+      <description>（国家自然科学基金 重点项目：喀喇昆仑-喜马拉雅冰川物质平衡的空间大地测量研究）
+喀喇昆仑-喜马拉雅冰川的物质平衡在冰川学和全球变化研究中占有重要地位,但迄今整个区 域的冰川物质平衡特征仍知之甚少。本项目提出利用SAR干涉测量、卫星测高和卫星重力联合 监测物质平衡的研究方案,优势是:1)采用多源数据,将增加监测的空间覆盖、提高分辨率; 2)采用包括最新的卫星任务、观测模式数据(例,双站SAR、CryoSat-2 SAR干涉模式、GRACE Follow-On),将增加监测时间长度、同时提高监测结果精度;3)采用精细的数据处理和物 质平衡估计方法(例,多种测高方法联合分析、GRACE改进的质点法),确保结果的可靠性。主 要目标是,提供研究区10~20年典型冰川高分辨率和整个区域~200km分辨率物质平衡时间序列 结果,揭示物质平衡随区域、时间变化特征及其与西风带、印度季风的关系。研究结果有助于 评估冰川变化对东亚气候和比邻河流水资源的影响,对全球变化和海平面变化研究也具有重要 科学意义。
+Mass balance of the glaciers in Karakoram and Himalaya Mountain Ranges plays an important role in glaciology and global change study. However, the characteristics of the glacier mass balance are still poorly known for the entire area. In the project, a synthetic methodology is proposed for estimating the mass balance by a joint application of Interferometric Synthetic Aperture Radar (InSAR), satellite altimetry and space-borne gravimetry, characterized by three advantages, 1)Data utilization from multiple sources will broaden the data coverage and improve the data resolution; 2)Data used will include those from some new satellite missions and the innovative modes (e.</description>
+    </item>
+    
+    <item>
+      <title>NSFC  (grant no. 41674084)</title>
+      <link>https://fengweiigg.github.io/project/nsfc_gws_ncp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengweiigg.github.io/project/nsfc_gws_ncp/</guid>
+      <description>（国家自然科学基金 面上项目：联合GNSS和卫星重力研究地下水对华北平原地表形变与水储量变化的影响）
+华北平原地下水超采是国内外长期关注的热点研究问题。本项目旨在利用GNSS与卫星重力 两种现代大地测量观测手段,评估地下水对华北平原地表形变与区域水储量变化的影响。本项 目计划基于弹性负荷理论和土壤固结理论分析不同含水层的地下水变化对GNSS站点的负荷形变 非负荷形变的影响。针对浅层含水层,利用GRACE卫星重力观测、潜水井实测和地球物理模 型,分析地下水对地表的负荷形变;针对深层含水层,利用承压水井资料和孔弹性理论,分析 地下水对地表的非负荷形变。此外,基于卫星重力观测手段和水文模式数据,研究华北平原地 下水储量变化的时空分布和趋势。结合水井实测资料和GNSS站点的垂直形变资料估计浅层地下水和深层地下水的储量变化,并据此给出卫星重力估计华北地下水储量变化精度的外部独立检 核。该项研究的开展可为我国实施华北地区水资源管理和制定相关法律政策提供科学依据。
+Groundwater depletion in the North China Plain (NCP) is one of the “hot spots” at home and abroad. This project aims at using two modern geodetic observations, i.e., GNSS and satellite gravimetry, to estimate groundwater&amp;rsquo;s effects on surface deformation and water storage variations in the NCP. Based on elastic loading theory and poroelastic theory, the effects of groundwater in different aquifers on loading deformation and non-loading deformation at GNSS stations will be estimated.</description>
+    </item>
+    
+  </channel>
+</rss>
